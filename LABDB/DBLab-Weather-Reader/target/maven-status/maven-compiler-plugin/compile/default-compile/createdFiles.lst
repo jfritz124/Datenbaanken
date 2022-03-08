@@ -1,0 +1,8 @@
+de\hska\iwii\db1\weather\Main.class
+de\hska\iwii\db1\weather\model\Weather.class
+de\hska\iwii\db1\weather\model\WeatherContainer.class
+DemoWeather.class
+de\hska\iwii\db1\weather\model\Location.class
+de\hska\iwii\db1\weather\reader\WeatherReader.class
+de\hska\iwii\db1\weather\model\LocationType.class
+de\hska\iwii\db1\weather\reader\ProxyAuthenticator.class
